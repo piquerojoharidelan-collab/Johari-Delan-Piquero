@@ -1,0 +1,8 @@
+{
+  "name": "CareNova — AI Physical & Mental Wellness Assistant",
+  "description": "Comprehensive wellness platform combining conversational AI, physical coaching, mental health companion, exercise tracker, guided breathwork, and wellness analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
